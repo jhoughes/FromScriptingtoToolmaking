@@ -609,6 +609,9 @@ https://www.idera.com/resourcecentral/whitepapers/powershell-ebook
 PowerShell.org Books (DevOps Collective)
 https://leanpub.com/u/devopscollective
 
+Jeff Hicks' Recommended Books & Training:
+https://jdhitsolutions.com/blog/books-and-training/
+
 ATXPowerShell YouTube Channel:
 Debugging PowerShell in VSCode w/Josh Duffney
 https://youtu.be/Kg5eKslokao
@@ -623,7 +626,12 @@ https://github.com/PowerShell/Plaster
 PlatyPS – Write PowerShell External Help in Markdown
 https://github.com/PowerShell/platyPS
 
-    
+Aggregated PowerShell Community sites/blogs:
+https://www.planetpowershell.com/
+
+Additional Curated Resource Lists:
+http://jdhitsolutions.com/blog/essential-powershell-resources/
+
 #>
 
 
